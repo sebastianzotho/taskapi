@@ -183,6 +183,8 @@ Análisis estático configurado. Para activarlo:
 
 ---
 
+Link Video: https://go.screenpal.com/watch/cOetnxnT3C9
+
 ## 📄 Documentación adicional
 
 - [`CI_REPORT.md`](./CI_REPORT.md) — Diagrama del pipeline, métricas detalladas, justificación de thresholds
